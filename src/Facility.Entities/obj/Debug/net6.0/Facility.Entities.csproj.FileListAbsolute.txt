@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\Facility\src\Facility.Entities\obj\Debug\net6.0\Facility.Entities.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Facility\src\Facility.Entities\obj\Debug\net6.0\Facility.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Facility\src\Facility.Entities\obj\Debug\net6.0\Facility.Entities.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Facility\src\Facility.Entities\obj\Debug\net6.0\Facility.Entities.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Facility\src\Facility.Entities\obj\Debug\net6.0\Facility.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Facility\src\Facility.Entities\bin\Debug\net6.0\Facility.Entities.deps.json
+C:\Users\Usuario\source\repos\Facility\src\Facility.Entities\bin\Debug\net6.0\Facility.Entities.dll
+C:\Users\Usuario\source\repos\Facility\src\Facility.Entities\bin\Debug\net6.0\Facility.Entities.pdb
+C:\Users\Usuario\source\repos\Facility\src\Facility.Entities\obj\Debug\net6.0\Facility.Entities.dll
+C:\Users\Usuario\source\repos\Facility\src\Facility.Entities\obj\Debug\net6.0\refint\Facility.Entities.dll
+C:\Users\Usuario\source\repos\Facility\src\Facility.Entities\obj\Debug\net6.0\Facility.Entities.pdb
+C:\Users\Usuario\source\repos\Facility\src\Facility.Entities\obj\Debug\net6.0\ref\Facility.Entities.dll

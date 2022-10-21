@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Facility.FrontEnd/1.0.0": {
+        "dependencies": {
+          "Facility.Entities": "1.0.0"
+        },
+        "runtime": {
+          "Facility.FrontEnd.dll": {}
+        }
+      },
+      "Facility.Entities/1.0.0": {
+        "runtime": {
+          "Facility.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Facility.FrontEnd/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Facility.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
